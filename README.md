@@ -21,7 +21,7 @@ tommaso@github
 🌆 MSc in Statistics at Imperial College London (graduating September 2024)
 🔎 Statistics and Machine Learning
 ❤️ Python, R, C++ 
-📧 Email: tommaso.ferracci@gmail.com
+📧 tommaso.ferracci@gmail.com
 📬 LinkedIn: <a href="https://www.linkedin.com/in/tommaso-ferracci">tommaso.ferracci</a>
 --------------
  </code>
