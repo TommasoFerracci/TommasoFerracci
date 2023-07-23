@@ -13,7 +13,7 @@ tommaso@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="images/hyperparameter_tuning.png" width="200" /> 
+<img align="left" src="images/hyperparameter_tuning.png" width="380" /> 
 
 ```
 tommaso@github
@@ -23,5 +23,5 @@ tommaso@github
 🔎 Statistics and Machine Learning
 ❤️ Python, R, C++ 
 📧 E-Mail: tommaso.ferracci@gmail.com
-📬 LinkedIn: [tommaso](https://www.linkedin.com/in/tommaso-ferracci/)
+📬 LinkedIn: [`tommaso`](https://www.linkedin.com/in/tommaso-ferracci/)
 ```
