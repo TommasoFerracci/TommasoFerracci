@@ -14,7 +14,7 @@ tommaso@github:~$ ./welcome.sh
 ```
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TommasoFerracci&layout=compact&langs_count=8&card_width=200" />
+  <img height=220 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TommasoFerracci&layout=compact&theme=dark" />
 </a>
 
 <pre>
