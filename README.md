@@ -23,5 +23,10 @@ tommaso@github
 🔎 Statistics and Machine Learning
 ❤️ Python, R, C++ 
 📧 E-Mail: tommaso.ferracci@gmail.com
-📬 LinkedIn: [`tommaso`](https://www.linkedin.com/in/tommaso-ferracci/)
+📬 LinkedIn: 
+<pre>  
+    <code>
+        <a href="https://www.linkedin.com/in/tommaso-ferracci">tommaso</a>
+    </code> 
+</pre>
 ```
