@@ -15,7 +15,8 @@ tommaso@github:~$ ./welcome.sh
 
 <img align="left" src="images/hyperparameter_tuning.png" width="380" /> 
 
-```
+<pre>
+ <code>
 tommaso@github
 -------------------------
 🏠 BSc in Physics at University of Padua 
@@ -23,10 +24,6 @@ tommaso@github
 🔎 Statistics and Machine Learning
 ❤️ Python, R, C++ 
 📧 E-Mail: tommaso.ferracci@gmail.com
-📬 LinkedIn: 
-<pre>  
-    <code>
-        <a href="https://www.linkedin.com/in/tommaso-ferracci">tommaso</a>
-    </code> 
+📬 LinkedIn: <a href="https://www.linkedin.com/in/tommaso-ferracci">tommaso.ferracci</a>
+ </code>
 </pre>
-```
