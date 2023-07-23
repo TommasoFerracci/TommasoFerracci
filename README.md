@@ -13,7 +13,9 @@ tommaso@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="images/hyperparameter_tuning.png" width="380" /> 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TommasoFerracci&layout=compact&langs_count=8&card_width=200" />
+</a>
 
 <pre>
  <code>
