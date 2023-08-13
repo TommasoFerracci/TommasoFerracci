@@ -3,9 +3,9 @@ tommaso@github:~$ ./welcome.sh
 ```
 
 ```
- _____________________________________
-< Welcome to my personal GitHub page! >
- ------------------------------------- 
+ ___________________________________
+<Welcome to my personal GitHub page!>
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -17,11 +17,11 @@ tommaso@github:~$ ./welcome.sh
  <code>
 tommaso@github
 --------------
-🏠 BSc in Physics at University of Padua (graduated with honors July 2023)
-🌆 MSc in Statistics at Imperial College London (graduating September 2024)
+📖 BSc Physics, University of Padua
+📖 MSc Statistics, Imperial College London
 🔎 Statistics and Machine Learning
 ❤️ Python, R, C++ 
-📧 tommaso.ferracci@gmail.com
+📬 tommaso.ferracci@gmail.com
 📬 LinkedIn: <a href="https://www.linkedin.com/in/tommaso-ferracci">tommaso.ferracci</a>
 --------------
  </code>
